@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/external/Box2D/Dynamics/Contacts/b2Contact.cpp \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2Contact.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Common/b2Math.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Common/b2Settings.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Collision/b2Collision.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/b2Fixture.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/b2Body.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2CircleContact.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2PolygonContact.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2ChainAndCircleContact.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2ContactSolver.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/b2TimeStep.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Collision/b2TimeOfImpact.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Collision/b2Distance.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/b2World.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Common/b2StackAllocator.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Common/b2GrowableStack.h \
+  /Users/taku/workspace/workspace_cocos/telestration/cocos2d/build/../external/Box2D/Dynamics/b2WorldCallbacks.h
